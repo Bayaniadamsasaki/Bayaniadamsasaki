@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **bayaniadamsasaki@gmail.com**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/portofolio-16cfc.appspot.com/o/pdf%2FCV%20BAYANI%20ADAM%20SASAKI%20(FE).pdf?alt=media&token=0bced44b-9349-44d5-bc03-828de80ec4cc](https://firebasestorage.googleapis.com/v0/b/portofolio-16cfc.appspot.com/o/pdf%2FCV%20BAYANI%20ADAM%20SASAKI%20(FE).pdf?alt=media&token=0bced44b-9349-44d5-bc03-828de80ec4cc)
-
 - ⚡ Fun fact **like to learn new things**
 
 <h3 align="left">Connect with me:</h3>
