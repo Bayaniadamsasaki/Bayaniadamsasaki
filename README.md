@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="bayaniadamsasaki" /> </p>
 <h1 align="center">Hi 👋, I'm BAYANI ADAM SASAKI</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Design Enthusiast</h3>
 
