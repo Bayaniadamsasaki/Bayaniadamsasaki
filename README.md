@@ -9,13 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://porto-react-theta.vercel.app/](https://porto-react-theta.vercel.app/)
-
-- 💬 Ask me about **React, Flutter, UI/UX**
-
 - 📫 How to reach me **bayaniadamsasaki@gmail.com**
-
-- ⚡ Fun fact **like to learn new things**
 
 </p>
 
