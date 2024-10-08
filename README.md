@@ -6,9 +6,11 @@
 
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=bayaniadamsasaki&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayaniadamsasaki&theme=react&layout=compact" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayaniadamsasaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayaniadamsasaki&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <div align=center>
