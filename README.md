@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm BAYANI ADAM SASAKI</h1>
 <h3 align="center">Frontend Developer and UI/UX Design Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bayaniadamsasaki&label=Profile%20views&color=0e75b6&style=flat" alt="bayaniadamsasaki" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Bayaniadamsasaki&label=Profile%20views&color=0e75b6&style=flat" alt="bayaniadamsasaki" /> 
+</p>
 
 </p>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayaniadamsasaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayaniadamsasaki&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/bayaniadamsasaki">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayaniadamsasaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayaniadamsasaki&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <div align="center">
