@@ -13,8 +13,22 @@
 </a>
 </p>
 
-<div align=center>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bayaniadamsasaki&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=bayaniadamsasaki&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
 </div>
+
+<br><br>
+
+<p align="center">Talk to you on <a href="https://discord.gg/sasakikojiro07_" target="_blank" rel="noreferrer">Discord!</a></p>
+
+<br>
+
+<p align="center">
+  <a href="https://discord.com/users/498837078919086090" target="_blank" rel="noreferrer">
+    <img src="https://lanyard.cnrad.dev/api/498837078919086090" alt="discord-adam" />
+  </a>
+</p>
+
+
