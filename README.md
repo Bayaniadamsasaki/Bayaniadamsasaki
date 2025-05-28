@@ -8,11 +8,20 @@
 
 </p>
 
+<div align="center">
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+</div>
+
+<br>
+
 <p align="center">
-  <a href="https://github.com/bayaniadamsasaki">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayaniadamsasaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayaniadamsasaki&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+
+  <a href="https://github.com/Bayaniadamsasaki"><img alt="Bayani Adam Sasaki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Bayaniadamsasaki&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+  <a href="https://github.com/Bayaniadamsasaki"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bayaniadamsasaki&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
 </p>
 
 <div align="center">
