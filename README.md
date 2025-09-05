@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="bayaniadamsasaki" /> </p>
 <h1 align="center">Hi 👋, I'm BAYANI ADAM SASAKI</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Front-End Developer</h3>
 <br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Bayaniadamsasaki&label=Profile%20views&color=0e75b6&style=flat" alt="bayaniadamsasaki" /> 
